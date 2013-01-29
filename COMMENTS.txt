@@ -3,7 +3,7 @@
 ===========================================================================
 
 mmmv_patches is a collection of patches that I, Martin.Vahi@softf1.com,
-have created for other peoples' software. 
+have created to other peoples' software. 
 
 Only patches that have not been accepted to upstream trunk or 
 where the trunk is considered to be too unstable, are included here. 
