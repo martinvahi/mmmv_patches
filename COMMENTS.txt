@@ -1,0 +1,16 @@
+===========================================================================
+===========================  mmmv_patches  ================================
+===========================================================================
+
+mmmv_patches is a collection of patches that I, Martin.Vahi@softf1.com,
+have created for other peoples' software. 
+
+Only patches that have not been accepted to upstream trunk or 
+where the trunk is considered to be too unstable, are included here. 
+For example, one of the cases, where the patches are not accepted
+by upstream developers is where the the upstream developers have either
+temporarily or permanently abandoned the patched project. 
+
+
+===========================================================================
+

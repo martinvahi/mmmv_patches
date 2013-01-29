@@ -1,0 +1,21 @@
+===========================================================================
+==================  Patch of the rbeautify.rb  ============================
+===========================================================================
+
+The 
+    ./rbeautify.rb
+
+got downloaded from 
+    http://arachnoid.com/ruby/rubyBeautifier.html
+    http://arachnoid.com/ruby/rbeautify.rb.txt
+
+on 2013.01.29. The 
+    ./modified_rbeautify.rb
+
+is the patched version of the original and the 
+    ./diff.txt
+
+is the result of 
+    diff -Naur ./rbeautify.rb ./modified_rbeautify.rb > ./diff.txt
+
+===========================================================================

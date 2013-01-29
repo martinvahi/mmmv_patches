@@ -1,0 +1,17 @@
+--- ./rbeautify.rb	2013-01-29 22:50:16.256657069 +0200
++++ ./modified_rbeautify.rb	2013-01-29 22:50:16.256657069 +0200
+@@ -1,4 +1,4 @@
+-#!/usr/bin/ruby -w
++#!/usr/bin/ruby -Ku
+ 
+ 
+ =begin
+@@ -87,7 +87,7 @@
+       multiLine_str = ""
+       tab = 0
+       output = []
+-      source.each do |line|
++      source.each_line do |line|
+          line.chomp!
+          if(!program_end)
+             # detect program end mark
